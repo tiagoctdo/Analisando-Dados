@@ -1,0 +1,9 @@
+# Aprimorando Relatórios
+
+## Aprimoramento do Relatório de Fila de Chamadas para Gestão de Fluxo e Abandono
+
+Com o intuito de transformar o relatório de fila de chamadas em uma ferramenta estratégica para a gestão de um pós-vendas, trabalhei na criação de uma visualização mais dinâmica e intuitiva. Ao identificar os horários de maior demanda e as taxas de abandono, é possível direcionar esforços para otimizar o atendimento, reduzir o tempo de espera e aumentar a satisfação dos clientes.
+
+*O relatório pode ser atualizado via API ou relatório do sistema onde o Excel irá fazer a leitura da pasta em que serão salvos os arquivos.*
+
+
