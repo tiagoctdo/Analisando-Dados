@@ -19,3 +19,18 @@ https://github.com/user-attachments/assets/f5530eb8-4aeb-416e-9774-c503e7f3ec1e
 ![image](https://github.com/user-attachments/assets/9c5aa762-fdbf-4bc4-9a1a-bd61ff299104)
 
 
+
+
+## Dashboard Interativo de Vendas
+
+**Visualize e analise em tempo real suas métricas de vendas, cancelamentos e inadimplência. Identifique padrões, e otimize suas estratégias de negócio com este dashboard interativo e completo.**
+
+### Funcionalidades
+* **Monitoramento em tempo real:** Acompanhe as vendas, cancelamentos e inadimplência minuto a minuto.
+* **Análise detalhada:** Explore os dados por região.
+* **Previsão de churn:** Identifique a região com alto risco de cancelamento e tome medidas preventivas.
+* **Visualizações interativas:** Explore os dados de forma intuitiva com gráficos e tabelas personalizáveis.
+
+https://github.com/user-attachments/assets/73bfadd7-36ad-4ac9-8fb1-4087680047be
+
+
