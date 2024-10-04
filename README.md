@@ -33,4 +33,24 @@ https://github.com/user-attachments/assets/f5530eb8-4aeb-416e-9774-c503e7f3ec1e
 
 https://github.com/user-attachments/assets/73bfadd7-36ad-4ac9-8fb1-4087680047be
 
+## Dashboard Interativo da Carteira
 
+**Visualize e analise em tempo real detalhes e indicadores da sua carteira e de seu vendedor.**
+
+### Funcionalidades
+* **Monitoramento em tempo real:** Acompanhe o status da carteira, churn, % em dia.
+* **Análise detalhada:** Entenda alguns comportamentos da sua carteira.
+* **Identifique riscos:** Identifique o status dos clientes por região e motivos de cancelamento e tome medidas preventivas.
+* **Melhore a Experiência do Cliente:** Identifique as principais causas de insatisfação e implemente ações, adicione alertas sempre que um indicador atingir um patamar.
+
+
+https://github.com/user-attachments/assets/b77df25b-cd65-4d7a-9733-60a2d7b95d0c
+
+
+
+Gostaria de explorar outras ideias? Podemos discutir sobre:
+
+Visualizações: Quais tipos de gráficos e tabelas deseja?
+Interatividade: Deseja um dashboard com  mais interações?
+Personalização: É possivel criar dashboard de acordo com suas necessidades?
+Compartilhamento: É possivel facilitar o compartilhamento dos insights do dashboard com outras áreas da empresa?
