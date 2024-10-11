@@ -1,10 +1,7 @@
 # Analisando Cenarios com dados
+Bem Vindo a apresentação de algumas analises nas quais trabalhei nos ultimos anos.
 
-Alguns projetos executados
-
-## Modelo de solicitação de tarefas entre setores
-
-Análise da Satisfação e Eficiência entre Setores
+## Análise da Satisfação e Eficiência entre Setores
    Com o objetivo de coletar e analisar o feedback dos colaboradores sobre a interação entre diferentes setores da empresa, os colaboradores podem avaliar as solicitações feitas é os gestores tem a visualização da satisfação das tarefas recebidas, identificando gargalos e oportunidades de melhoria."
    Ao analisar os dados, é possível identificar os processos por setores que mais solicitam tarefas para alteração ou manutenção em sistema podendo tomar medidas para otimizá-los ou mudar fluxos de execução, quais os colaboradores mais solicitados quais apresentam maior satisfação com o trabalho realizado qual setor ou atendente demandam mais tarefas.
    
@@ -21,7 +18,7 @@ https://github.com/user-attachments/assets/f5530eb8-4aeb-416e-9774-c503e7f3ec1e
 
 
 
-## Dashboard Interativo de Vendas
+## Acelere o Crescimento do Seu Negócio: Analise Completa e Personalizada das Suas Métricas.   
 
 **Visualize e analise em tempo real suas métricas de vendas, cancelamentos e inadimplência. Identifique padrões, e otimize suas estratégias de negócio com este dashboard interativo e completo.**
 
@@ -33,7 +30,7 @@ https://github.com/user-attachments/assets/f5530eb8-4aeb-416e-9774-c503e7f3ec1e
 
 https://github.com/user-attachments/assets/73bfadd7-36ad-4ac9-8fb1-4087680047be
 
-## Dashboard Interativo da Carteira
+## Indicadores da sua Carteira
 
 **Visualize e analise em tempo real detalhes e indicadores da sua carteira e de seu vendedor.**
 
