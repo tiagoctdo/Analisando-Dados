@@ -50,7 +50,7 @@ https://github.com/user-attachments/assets/b77df25b-cd65-4d7a-9733-60a2d7b95d0c
 
 Gostaria de explorar outras ideias? Podemos discutir sobre:
 
-Visualizações: Quais tipos de gráficos e tabelas deseja?
-Interatividade: Deseja um dashboard com  mais interações?
-Personalização: É possivel criar dashboard de acordo com suas necessidades?
-Compartilhamento: É possivel facilitar o compartilhamento dos insights do dashboard com outras áreas da empresa?
+Quais tipos de gráficos e tabelas deseja?
+Deseja um dashboard com  mais interações?
+É possivel criar dashboard de acordo com suas necessidades?
+É possivel facilitar o compartilhamento dos insights do dashboard com outras áreas da empresa?
