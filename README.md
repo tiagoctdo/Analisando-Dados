@@ -1,4 +1,6 @@
-# Analisando Cenarios com dados
+# Alguns Projetos desenvolvidos
+# Analisando carteira com dados
+
 Bem Vindo a apresentação de algumas analises nas quais trabalhei nos ultimos anos.
 
 ## Análise da Satisfação e Eficiência entre Setores
@@ -43,6 +45,16 @@ https://github.com/user-attachments/assets/73bfadd7-36ad-4ac9-8fb1-4087680047be
 
 https://github.com/user-attachments/assets/b77df25b-cd65-4d7a-9733-60a2d7b95d0c
 
+
+# Prazo de Financiamento e o Impacto nas Carteira.
+### Funcionalidades
+
+* **Monitoramento em tempo real:** Do seu processo de vendas e finaciamento na carteira.
+* **Análise detalhada:**  Análise do tempo de financiamento até a compreensão dos motivos de desistência e o impacto financeiro das vendas.
+* **Identifique riscos:** Vendas acima do prazo são melhores que vendas no prazo? 
+* **Melhore a Experiência do Cliente:** Visão por produto x prazo de financimanento, aprimorar a experiência e os resultados da empresa qual estratégia o % da renda comprometida.
+
+https://github.com/user-attachments/assets/c722e63f-ab59-49f2-abd4-5fd6a57e1410
 
 
 Gostaria de explorar outras ideias? Podemos discutir sobre:
