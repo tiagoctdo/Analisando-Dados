@@ -5,6 +5,11 @@ Bem Vindo a apresentação de algumas analises nas quais trabalhei nos ultimos a
 
 ## Retenção de Clientes
 Utilizando a linguagem SQL conectada ao bando de dados da Time Sharing Soluções com o POWER BI, o dashboard reduz o tempo gasto na análise de dados e aumenta a precisão de campanhas, e abordagem com o cliente com solicitação de cancelamento, é possível personalizar a análise e obter insights, vc ainda pode baixar um relatório em Excel com os dados.
+### Funcionalidades
+* **Monitoramento em tempo real:** Acompanhe as solicitações em tempo real.
+* **Análise detalhada:** Explore os dados por região, produto, consultor, idade, .
+* **Previsão de churn:** Acerte nas companhas e estrategias com o cliente.
+* **Visualizações interativas:** Explore os dados de forma intuitiva com gráficos e tabelas personalizáveis.
 ![Uploading Design sem nome (1).png…]()
 
 
