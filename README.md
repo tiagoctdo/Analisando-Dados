@@ -10,7 +10,7 @@ Utilizando a linguagem SQL conectada ao bando de dados da Time Sharing Soluçõe
 * **Análise detalhada:** Explore os dados por região, produto, consultor, idade, .
 * **Previsão de churn:** Acerte nas companhas e estrategias com o cliente.
 * **Visualizações interativas:** Explore os dados de forma intuitiva com gráficos e tabelas personalizáveis.
-![Uploading Design sem nome (1).png…]()
+![Painel Retenção](https://github.com/user-attachments/assets/fae6e887-207f-49ca-b5fd-d2f1dad92844)
 
 
 ## Análise da Satisfação e Eficiência entre Setores
