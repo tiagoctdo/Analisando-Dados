@@ -3,6 +3,11 @@
 
 Bem Vindo a apresentação de algumas analises nas quais trabalhei nos ultimos anos.
 
+## Retenção de Clientes
+Utilizando a linguagem SQL conectada ao bando de dados da Time Sharing Soluções com o POWER BI, o dashboard reduz o tempo gasto na análise de dados e aumenta a precisão de campanhas, e abordagem com o cliente com solicitação de cancelamento, é possível personalizar a análise e obter insights, vc ainda pode baixar um relatório em Excel com os dados.
+![Uploading Design sem nome (1).png…]()
+
+
 ## Análise da Satisfação e Eficiência entre Setores
    Com o objetivo de coletar e analisar o feedback dos colaboradores sobre a interação entre diferentes setores da empresa, os colaboradores podem avaliar as solicitações feitas é os gestores tem a visualização da satisfação das tarefas recebidas, identificando gargalos e oportunidades de melhoria."
    Ao analisar os dados, é possível identificar os processos por setores que mais solicitam tarefas para alteração ou manutenção em sistema podendo tomar medidas para otimizá-los ou mudar fluxos de execução, quais os colaboradores mais solicitados quais apresentam maior satisfação com o trabalho realizado qual setor ou atendente demandam mais tarefas.
