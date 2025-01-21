@@ -67,6 +67,14 @@ https://github.com/user-attachments/assets/b77df25b-cd65-4d7a-9733-60a2d7b95d0c
 
 https://github.com/user-attachments/assets/c722e63f-ab59-49f2-abd4-5fd6a57e1410
 
+## Visão de Caixa.
+### Funcionalidades
+* **Monitoramento em tempo real:** Do seu processo de vendas e finaciamento na carteira.
+* **Analise detalhada do caixa da empresa observando o meio de pagamento, a faixa de inad, ou status do contrato.
+* ** Visão detalhada do caixa geral, caixa recebivel e caixa com inad podendo analisar os 3 cenarios e seu impacto.
+* **Melhore a sua estrategia de cobrança e retenção com esses dados.
+
+  
 
 Gostaria de explorar outras ideias? Podemos discutir sobre:
 
