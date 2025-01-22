@@ -77,11 +77,6 @@ https://github.com/user-attachments/assets/c722e63f-ab59-49f2-abd4-5fd6a57e1410
 
 https://github.com/user-attachments/assets/72151820-2404-4eb5-a422-ea2dd67d9996
 
-![image](https://github.com/user-attachments/assets/7874f5f6-7748-4d73-bd85-1920c14e9b3b)
-![image](https://github.com/user-attachments/assets/d400591f-cd99-47ae-91a4-24ca675c6ed4)
-![image](https://github.com/user-attachments/assets/62bdf764-3895-43e6-8a5b-ff9b1e485130)
- 
-
 Gostaria de explorar outras ideias? Podemos discutir sobre:
 
 Quais tipos de gráficos e tabelas deseja?
